@@ -10,6 +10,6 @@ The numbers stay comparable, no matter if 1M, 10M or 30M numbers are tested.
 * Rust: 101%
 * Kotlin/Native: 102%
 * Kotlin/JVM: 141%
-* Kotlin/WASM (Kotlin 2.0-RC1): 151%
+* Kotlin/WASM: 151% (Kotlin 2.0-RC1, executed in Chrome)
 * JS: 153%
 * Python: 5026%
